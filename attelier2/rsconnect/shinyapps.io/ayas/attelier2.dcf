@@ -1,0 +1,13 @@
+name: attelier2
+title: attelier2
+username:
+account: ayas
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3259729
+bundleId: 3878758
+url: https://ayas.shinyapps.io/attelier2/
+when: 1605759820.7395
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Travail_individuel_02.R
